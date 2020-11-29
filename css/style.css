@@ -3,9 +3,10 @@
 /* my-section */
 header {
   display: grid;
-  grid-row: 1fr;
-  grid-column: 20px;
+  grid-template-rows: 1fr;
+  /*grid-template-columns: 20px;*/
   background-color: #4ea9fa;
+  min-height: 20px;
 
 }
 .one {
