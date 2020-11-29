@@ -1,1 +1,21 @@
 @import url(https://timapaps.github.io/grid-layout/css/normalize.css);
+
+/* my-section */
+header {
+  display: grid;
+  grid-row: 1fr;
+  grid-column: 20px;
+  background-color: #4ea9fa;
+
+}
+.one {
+
+}
+.two {
+  
+}
+.three {
+  
+}
+
+/* my-section */
