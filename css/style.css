@@ -1,4 +1,7 @@
+/*
 @import url(https://timapaps.github.io/grid-layout/css/normalize.css);
+*/
+@import url(/css/normalize.css);
 
 /* my-section */
 header {
